@@ -6,6 +6,7 @@ public class test34 {
 		// TODO Auto-generated method stub
 
 		System.out.println("pushingOne");
+		System.out.println("pulling");
 	}
 
 }
