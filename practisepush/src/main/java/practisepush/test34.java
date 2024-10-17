@@ -7,6 +7,7 @@ public class test34 {
 
 		System.out.println("pushingOne");
 		System.out.println("pulling");
+		//pushing 2
 	}
 
 }
